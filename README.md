@@ -2,6 +2,7 @@
 1.You can install all the packages by removing the '#' symbol from !pip..
 you need check the path for both .png files
 
+
 2.Manily you need to have the twitter developer account to get the API tokens so,that you can access twitter database
 you can create through this link
 >https://developer.twitter.com/en
